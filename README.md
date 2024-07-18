@@ -16,7 +16,7 @@ A simple and elegant To-Do List app to help you manage your tasks. Built with **
 
 ## 🌐 **Live Demo**
 
-Check out the live demo [here](#)!
+Check out the live demo [here](https://jagratimehta410.github.io/Todo-list/)!
 
 ![Screenshot 2024-07-18 222730](https://github.com/user-attachments/assets/dbabc568-119c-4d6a-b882-e78e3dd42016)
 
@@ -57,7 +57,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## 🌟 Connect With Us
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/jagrati-mehta-4b87b7213/)
+- [GitHub](https://github.com/jagratimehta410)
 
 Happy Task Management! 🚀
