@@ -36,7 +36,7 @@ Check out the live demo [here](https://jagratimehta410.github.io/Todo-list/)!
 To get started, clone the repository and open the `index.html` file in your browser:
 
 ```bash
-git clone https://github.com/your-username/to-do-list-app.git
+https://github.com/jagratimehta410/Todo-list
 cd to-do-list-app
 ```
 
